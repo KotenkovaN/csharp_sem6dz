@@ -1,0 +1,15 @@
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/bin/Debug/net6.0/task43
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/bin/Debug/net6.0/task43.deps.json
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/bin/Debug/net6.0/task43.runtimeconfig.json
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/bin/Debug/net6.0/task43.dll
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/bin/Debug/net6.0/ref/task43.dll
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/bin/Debug/net6.0/task43.pdb
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/task43.csproj.AssemblyReference.cache
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/task43.GeneratedMSBuildEditorConfig.editorconfig
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/task43.AssemblyInfoInputs.cache
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/task43.AssemblyInfo.cs
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/task43.csproj.CoreCompileInputs.cache
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/task43.dll
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/ref/task43.dll
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/task43.pdb
+/home/natalia/Рабочий стол/c#sem6_dz/csharp_sem6dz/task43/obj/Debug/net6.0/task43.genruntimeconfig.cache
